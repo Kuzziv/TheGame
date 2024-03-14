@@ -1,0 +1,11 @@
+Name: Tito
+Health: 100
+AttackDamage: 10
+Defense: 5
+X: 0
+Y: 0
+Bag:
+  Items: []
+  MaxSlots: 4
+  CurrentSlotsOccupied: 0
+  Name: Normal Bag
