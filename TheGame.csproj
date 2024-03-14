@@ -7,4 +7,19 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="YamlDotNet" Version="15.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="WorldOfPain">
+      <HintPath>..\..\Project\WorldOfPain\bin\Debug\net8.0\WorldOfPain.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="GameStorage\Heros\" />
+    <Folder Include="GameStorage\Config\" />
+  </ItemGroup>
+
 </Project>
