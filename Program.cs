@@ -18,7 +18,7 @@ Creature creature1 = new Creature("Orc nigga", 100, 10, 10, 10, 10, null);
 Creature creature2 = new Creature("Orc dude", 100, 10, 10, 10, 10, null);
 
 
-// add the monster to the world
+// add the monster to the worlds
 world.AddCreature(creature1);
 world.AddCreature(creature2);
 
